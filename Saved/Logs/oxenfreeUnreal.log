@@ -1438,3 +1438,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.24-16.46.32:026][246]AssetCheck: New page: Asset Save: EdwardIsland
 [2023.01.24-16.46.32:026][246]LogContentValidation: Display: Validating /Script/Engine.World /Game/EdwardIsland.EdwardIsland
 [2023.01.24-16.46.33:814][397]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.228 and deleted 0 files with total size 0 MiB. Scanned 9024 files in 8872 folders with total size 859 MiB.
+[2023.01.24-16.51.18:681][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.24-16.51.18:745][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardIsland" FILE="../../../../../Unreal Projects/projetFinalChris/oxenfreeUnreal/Content/EdwardIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.24-16.51.18:754][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.24-16.51.18:761][943]LogSavePackage: Moving output files for package: /Game/EdwardIsland
+[2023.01.24-16.51.18:762][943]LogSavePackage: Moving '../../../../../Unreal Projects/projetFinalChris/oxenfreeUnreal/Saved/EdwardIsland00E4ED49463CD34BD5AC04B0D5247B87.tmp' to '../../../../../Unreal Projects/projetFinalChris/oxenfreeUnreal/Content/EdwardIsland.umap'
+[2023.01.24-16.51.18:771][943]LogFileHelpers: Saving map 'EdwardIsland' took 0.026
+[2023.01.24-16.51.18:793][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 574 ms)
+[2023.01.24-16.51.18:797][943]AssetCheck: New page: Asset Save: EdwardIsland
+[2023.01.24-16.51.18:797][943]LogContentValidation: Display: Validating /Script/Engine.World /Game/EdwardIsland.EdwardIsland
+[2023.01.24-16.51.21:014][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.24-16.51.21:079][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EdwardIsland" FILE="../../../../../Unreal Projects/projetFinalChris/oxenfreeUnreal/Content/EdwardIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.24-16.51.21:086][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.24-16.51.21:093][ 91]LogSavePackage: Moving output files for package: /Game/EdwardIsland
+[2023.01.24-16.51.21:093][ 91]LogSavePackage: Moving '../../../../../Unreal Projects/projetFinalChris/oxenfreeUnreal/Saved/EdwardIsland935C75AB462D35C84EE8AEA37F902791.tmp' to '../../../../../Unreal Projects/projetFinalChris/oxenfreeUnreal/Content/EdwardIsland.umap'
+[2023.01.24-16.51.21:102][ 91]LogFileHelpers: Saving map 'EdwardIsland' took 0.024
+[2023.01.24-16.51.21:122][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 682 ms)
+[2023.01.24-16.51.21:127][ 91]AssetCheck: New page: Asset Save: EdwardIsland
+[2023.01.24-16.51.21:127][ 91]LogContentValidation: Display: Validating /Script/Engine.World /Game/EdwardIsland.EdwardIsland
